@@ -1,0 +1,2 @@
+Um teste E2E, ou End-to-End, é um método de teste utilizado para testar um fluxo da aplicação desde o começo até o fim. 
+Seu intuito é replicar cenários reais feitos pelos usuários com a intenção de validar que o sistema esteja funcionando como o esperado.
